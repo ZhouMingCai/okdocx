@@ -1,0 +1,3 @@
+[submodule "okdocx-api"]
+	path = okdocx-api
+	url = https://github.com/uuu0/okdocx-api.git
