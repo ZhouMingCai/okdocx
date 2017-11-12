@@ -4,3 +4,6 @@
 [submodule "okdocx-cg-domain"]
 	path = okdocx-cg-domain
 	url = https://github.com/uuu0/okdocx-cg-domain.git
+[submodule "okdocx-cg-impl"]
+	path = okdocx-cg-impl
+	url = https://github.com/uuu0/okdocx-cg-impl.git
